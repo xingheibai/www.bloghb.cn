@@ -19,4 +19,4 @@
 // }
 
 // require_once __DIR__.'/public/index.php';
-var_dump('1');die;
+var_dump('2');die;
