@@ -26,7 +26,8 @@
     Route::get('/search','Home\IndexController@search');
 //评论
     Route::post('/art/comment','Home\IndexController@comment');
-
+//测试
+    Route::post('/demo','Home\DemoController@add');
 //后台
 //登录
     Route::any('admin/login','Admin\LoginController@login');
