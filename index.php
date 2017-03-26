@@ -19,4 +19,4 @@
 // }
 
 // require_once __DIR__.'/public/index.php';
-var_dump('33333sss');die;
+var_dump('测试');die;
