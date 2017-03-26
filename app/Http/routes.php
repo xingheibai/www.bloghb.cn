@@ -13,7 +13,7 @@
 
 //    Route::get('/', function () {
 //        return view('welcome');
-//    });
+//    });22
 
 //每创建一个方法都要申请一个路由
 //前台主页
